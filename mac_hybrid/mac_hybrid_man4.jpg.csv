@@ -1,0 +1,701 @@
+,Atributo,label da classe predita pelo modelo em INFERÊNCIA,índice da classe predita pelo modelo em modo de INFERÊNCIA,predição do modelo em TREINAMENTO para a classe predita pelo modelo em INFERÊNCIA,label da classe predita pelo modelo em TREINAMENTO,model
+0,age,adult,0,0.9919061660766602,adult,mac_hybrid_200_2048_1e-05
+1,hair_type,wavy,3,0.753150224685669,wavy,mac_hybrid_200_2048_1e-05
+2,hair_color,black,0,0.994268536567688,black,mac_hybrid_200_2048_1e-05
+3,eye_color,black,1,0.4698265790939331,black,mac_hybrid_200_2048_1e-05
+4,monk_scale,scale 4,4,0.5159118175506592,scale 4,mac_hybrid_200_2048_1e-05
+5,fitz_type,type iii,2,0.39305514097213745,type iv,mac_hybrid_200_2048_1e-05
+6,male,1,1,1.0,0,mac_hybrid_200_2048_1e-05
+7,age,adult,0,0.995870053768158,adult,mac_hybrid_200_2048_1e-05
+8,hair_type,wavy,3,0.850813090801239,wavy,mac_hybrid_200_2048_1e-05
+9,hair_color,black,0,0.9973031282424927,black,mac_hybrid_200_2048_1e-05
+10,eye_color,black,1,0.8961986303329468,black,mac_hybrid_200_2048_1e-05
+11,monk_scale,scale 4,4,0.8903895020484924,scale 4,mac_hybrid_200_2048_1e-05
+12,fitz_type,type iii,2,0.9604198932647705,type iii,mac_hybrid_200_2048_1e-05
+13,male,1,1,1.0,0,mac_hybrid_200_2048_1e-05
+14,age,adult,0,0.9955991506576538,adult,mac_hybrid_200_2048_1e-05
+15,hair_type,wavy,3,0.6064006686210632,wavy,mac_hybrid_200_2048_1e-05
+16,hair_color,black,0,0.6883938312530518,black,mac_hybrid_200_2048_1e-05
+17,eye_color,black,1,0.8953312039375305,black,mac_hybrid_200_2048_1e-05
+18,monk_scale,scale 4,4,0.49384817481040955,scale 4,mac_hybrid_200_2048_1e-05
+19,fitz_type,type iii,2,0.8578326106071472,type iii,mac_hybrid_200_2048_1e-05
+20,male,1,1,0.9999999,0,mac_hybrid_200_2048_1e-05
+21,age,adult,0,0.9785624146461487,adult,mac_hybrid_200_2048_1e-05
+22,hair_type,wavy,3,0.6501489281654358,wavy,mac_hybrid_200_2048_1e-05
+23,hair_color,black,0,0.9558677077293396,black,mac_hybrid_200_2048_1e-05
+24,eye_color,black,1,0.8015246391296387,black,mac_hybrid_200_2048_1e-05
+25,monk_scale,scale 4,4,0.9752732515335083,scale 4,mac_hybrid_200_2048_1e-05
+26,fitz_type,type iii,2,0.1007460355758667,type iv,mac_hybrid_200_2048_1e-05
+27,male,1,1,1.0,0,mac_hybrid_200_2048_1e-05
+28,age,adult,0,0.9993652701377869,adult,mac_hybrid_200_2048_1e-05
+29,hair_type,wavy,3,0.8470772504806519,wavy,mac_hybrid_200_2048_1e-05
+30,hair_color,black,0,0.9446632862091064,black,mac_hybrid_200_2048_1e-05
+31,eye_color,black,1,0.34028488397598267,brown,mac_hybrid_200_2048_1e-05
+32,monk_scale,scale 4,4,0.8993991017341614,scale 4,mac_hybrid_200_2048_1e-05
+33,fitz_type,type iii,2,0.28024137020111084,type iv,mac_hybrid_200_2048_1e-05
+34,male,1,1,0.9999882,0,mac_hybrid_200_2048_1e-05
+35,age,adult,0,0.9960571527481079,adult,mac_hybrid_200_2048_1e-05
+36,hair_type,wavy,3,0.38065075874328613,straight,mac_hybrid_200_2048_1e-05
+37,hair_color,black,0,0.9843963384628296,black,mac_hybrid_200_2048_1e-05
+38,eye_color,black,1,0.3128758668899536,brown,mac_hybrid_200_2048_1e-05
+39,monk_scale,scale 4,4,0.2755368649959564,scale 5,mac_hybrid_200_2048_1e-05
+40,fitz_type,type iii,2,0.35141319036483765,type iv,mac_hybrid_200_2048_1e-05
+41,male,1,1,0.9999989,0,mac_hybrid_200_2048_1e-05
+42,age,adult,0,0.9538467526435852,adult,mac_hybrid_200_2048_1e-05
+43,hair_type,wavy,3,0.860707700252533,wavy,mac_hybrid_200_2048_1e-05
+44,hair_color,black,0,0.9852275848388672,black,mac_hybrid_200_2048_1e-05
+45,eye_color,black,1,0.7282986640930176,black,mac_hybrid_200_2048_1e-05
+46,monk_scale,scale 4,4,0.4531191289424896,scale 4,mac_hybrid_200_2048_1e-05
+47,fitz_type,type iii,2,0.9153692126274109,type iii,mac_hybrid_200_2048_1e-05
+48,male,1,1,0.9999983,0,mac_hybrid_200_2048_1e-05
+49,age,adult,0,0.9845996499061584,adult,mac_hybrid_200_2048_1e-05
+50,hair_type,wavy,3,0.0837213322520256,curly,mac_hybrid_200_2048_1e-05
+51,hair_color,black,0,0.9884240031242371,black,mac_hybrid_200_2048_1e-05
+52,eye_color,black,1,0.6825700402259827,black,mac_hybrid_200_2048_1e-05
+53,monk_scale,scale 4,4,0.7895084619522095,scale 4,mac_hybrid_200_2048_1e-05
+54,fitz_type,type iii,2,0.22412462532520294,type iv,mac_hybrid_200_2048_1e-05
+55,male,1,1,0.999988,0,mac_hybrid_200_2048_1e-05
+56,age,adult,0,0.9984849095344543,adult,mac_hybrid_200_2048_1e-05
+57,hair_type,wavy,3,0.8716070055961609,wavy,mac_hybrid_200_2048_1e-05
+58,hair_color,black,0,0.9833199381828308,black,mac_hybrid_200_2048_1e-05
+59,eye_color,black,1,0.906484842300415,black,mac_hybrid_200_2048_1e-05
+60,monk_scale,scale 4,4,0.7569781541824341,scale 4,mac_hybrid_200_2048_1e-05
+61,fitz_type,type iii,2,0.5732948184013367,type iii,mac_hybrid_200_2048_1e-05
+62,male,1,1,0.9999625,0,mac_hybrid_200_2048_1e-05
+63,age,adult,0,0.9947595000267029,adult,mac_hybrid_200_2048_1e-05
+64,hair_type,wavy,3,0.766684353351593,wavy,mac_hybrid_200_2048_1e-05
+65,hair_color,black,0,0.9841916561126709,black,mac_hybrid_200_2048_1e-05
+66,eye_color,black,1,0.9278355836868286,black,mac_hybrid_200_2048_1e-05
+67,monk_scale,scale 4,4,0.5336589217185974,scale 4,mac_hybrid_200_2048_1e-05
+68,fitz_type,type iii,2,0.20162290334701538,type iv,mac_hybrid_200_2048_1e-05
+69,male,1,1,0.999997,0,mac_hybrid_200_2048_1e-05
+70,age,adult,0,0.9924072623252869,adult,mac_hybrid_200_2048_1e-05
+71,hair_type,wavy,3,0.8603174686431885,wavy,mac_hybrid_200_2048_1e-05
+72,hair_color,black,0,0.4286322593688965,brunette,mac_hybrid_200_2048_1e-05
+73,eye_color,black,1,0.8406320810317993,black,mac_hybrid_200_2048_1e-05
+74,monk_scale,scale 4,4,0.9434404373168945,scale 4,mac_hybrid_200_2048_1e-05
+75,fitz_type,type iii,2,0.6067308187484741,type iii,mac_hybrid_200_2048_1e-05
+76,male,1,1,0.99999875,0,mac_hybrid_200_2048_1e-05
+77,age,adult,0,0.9782291054725647,adult,mac_hybrid_200_2048_1e-05
+78,hair_type,wavy,3,0.9173576235771179,wavy,mac_hybrid_200_2048_1e-05
+79,hair_color,black,0,0.977421760559082,black,mac_hybrid_200_2048_1e-05
+80,eye_color,black,1,0.9316065907478333,black,mac_hybrid_200_2048_1e-05
+81,monk_scale,scale 4,4,0.7769396305084229,scale 4,mac_hybrid_200_2048_1e-05
+82,fitz_type,type iii,2,0.18072161078453064,type iv,mac_hybrid_200_2048_1e-05
+83,male,1,1,1.0,0,mac_hybrid_200_2048_1e-05
+84,age,adult,0,0.9955787062644958,adult,mac_hybrid_200_2048_1e-05
+85,hair_type,wavy,3,0.7297555208206177,wavy,mac_hybrid_200_2048_1e-05
+86,hair_color,black,0,0.911676287651062,black,mac_hybrid_200_2048_1e-05
+87,eye_color,black,1,0.8346422910690308,black,mac_hybrid_200_2048_1e-05
+88,monk_scale,scale 4,4,0.3841664493083954,scale 4,mac_hybrid_200_2048_1e-05
+89,fitz_type,type iii,2,0.9425296187400818,type iii,mac_hybrid_200_2048_1e-05
+90,male,1,1,0.99999946,0,mac_hybrid_200_2048_1e-05
+91,age,adult,0,0.9974709749221802,adult,mac_hybrid_200_2048_1e-05
+92,hair_type,wavy,3,0.26899537444114685,curly,mac_hybrid_200_2048_1e-05
+93,hair_color,black,0,0.9743012189865112,black,mac_hybrid_200_2048_1e-05
+94,eye_color,black,1,0.8270605206489563,black,mac_hybrid_200_2048_1e-05
+95,monk_scale,scale 4,4,0.31662285327911377,scale 4,mac_hybrid_200_2048_1e-05
+96,fitz_type,type iii,2,0.09153047204017639,type iv,mac_hybrid_200_2048_1e-05
+97,male,1,1,1.0,0,mac_hybrid_200_2048_1e-05
+98,age,adult,0,0.9941644072532654,adult,mac_hybrid_200_2048_1e-05
+99,hair_type,wavy,3,0.7522837519645691,wavy,mac_hybrid_200_2048_1e-05
+100,hair_color,black,0,0.42700299620628357,brunette,mac_hybrid_200_2048_1e-05
+101,eye_color,black,1,0.38746610283851624,brown,mac_hybrid_200_2048_1e-05
+102,monk_scale,scale 4,4,0.3321589231491089,scale 5,mac_hybrid_200_2048_1e-05
+103,fitz_type,type iii,2,0.7433255910873413,type iii,mac_hybrid_200_2048_1e-05
+104,male,1,1,0.9999994,0,mac_hybrid_200_2048_1e-05
+105,age,adult,0,0.9965158700942993,adult,mac_hybrid_200_2048_1e-05
+106,hair_type,wavy,3,0.7199763059616089,wavy,mac_hybrid_200_2048_1e-05
+107,hair_color,black,0,0.5064365863800049,black,mac_hybrid_200_2048_1e-05
+108,eye_color,black,1,0.4119926989078522,brown,mac_hybrid_200_2048_1e-05
+109,monk_scale,scale 4,4,0.8189577460289001,scale 4,mac_hybrid_200_2048_1e-05
+110,fitz_type,type iii,2,0.6447006464004517,type iii,mac_hybrid_200_2048_1e-05
+111,male,1,1,0.99999934,0,mac_hybrid_200_2048_1e-05
+112,age,adult,0,0.9978343844413757,adult,mac_hybrid_200_2048_1e-05
+113,hair_type,wavy,3,0.38341623544692993,curly,mac_hybrid_200_2048_1e-05
+114,hair_color,black,0,0.9771933555603027,black,mac_hybrid_200_2048_1e-05
+115,eye_color,black,1,0.7573527097702026,black,mac_hybrid_200_2048_1e-05
+116,monk_scale,scale 4,4,0.9244111776351929,scale 4,mac_hybrid_200_2048_1e-05
+117,fitz_type,type iii,2,0.8999513983726501,type iii,mac_hybrid_200_2048_1e-05
+118,male,1,1,0.9999903,0,mac_hybrid_200_2048_1e-05
+119,age,adult,0,0.9504455924034119,adult,mac_hybrid_200_2048_1e-05
+120,hair_type,wavy,3,0.7055954337120056,wavy,mac_hybrid_200_2048_1e-05
+121,hair_color,black,0,0.9697293639183044,black,mac_hybrid_200_2048_1e-05
+122,eye_color,black,1,0.9983164072036743,black,mac_hybrid_200_2048_1e-05
+123,monk_scale,scale 4,4,0.562013566493988,scale 4,mac_hybrid_200_2048_1e-05
+124,fitz_type,type iii,2,0.8739444017410278,type iii,mac_hybrid_200_2048_1e-05
+125,male,1,1,1.0,0,mac_hybrid_200_2048_1e-05
+126,age,adult,0,0.9993165731430054,adult,mac_hybrid_200_2048_1e-05
+127,hair_type,wavy,3,0.8158056139945984,wavy,mac_hybrid_200_2048_1e-05
+128,hair_color,black,0,0.5449080467224121,black,mac_hybrid_200_2048_1e-05
+129,eye_color,black,1,0.16438722610473633,brown,mac_hybrid_200_2048_1e-05
+130,monk_scale,scale 4,4,0.6869886517524719,scale 4,mac_hybrid_200_2048_1e-05
+131,fitz_type,type iii,2,0.7316877245903015,type iii,mac_hybrid_200_2048_1e-05
+132,male,1,1,0.9999995,0,mac_hybrid_200_2048_1e-05
+133,age,adult,0,0.9924479722976685,adult,mac_hybrid_200_2048_1e-05
+134,hair_type,wavy,3,0.7520992755889893,wavy,mac_hybrid_200_2048_1e-05
+135,hair_color,black,0,0.9203311800956726,black,mac_hybrid_200_2048_1e-05
+136,eye_color,black,1,0.9490050673484802,black,mac_hybrid_200_2048_1e-05
+137,monk_scale,scale 4,4,0.4625324010848999,scale 5,mac_hybrid_200_2048_1e-05
+138,fitz_type,type iii,2,0.9383978843688965,type iii,mac_hybrid_200_2048_1e-05
+139,male,1,1,0.99999917,0,mac_hybrid_200_2048_1e-05
+140,age,adult,0,0.9995421171188354,adult,mac_hybrid_200_2048_1e-05
+141,hair_type,wavy,3,0.07255545258522034,curly,mac_hybrid_200_2048_1e-05
+142,hair_color,black,0,0.9882960915565491,black,mac_hybrid_200_2048_1e-05
+143,eye_color,black,1,0.4971972107887268,black,mac_hybrid_200_2048_1e-05
+144,monk_scale,scale 4,4,0.5964033603668213,scale 4,mac_hybrid_200_2048_1e-05
+145,fitz_type,type iii,2,0.9609438180923462,type iii,mac_hybrid_200_2048_1e-05
+146,male,1,1,0.99999946,0,mac_hybrid_200_2048_1e-05
+147,age,adult,0,0.9810580015182495,adult,mac_hybrid_200_2048_1e-05
+148,hair_type,wavy,3,0.43069717288017273,straight,mac_hybrid_200_2048_1e-05
+149,hair_color,black,0,0.9933369159698486,black,mac_hybrid_200_2048_1e-05
+150,eye_color,black,1,0.7459433674812317,black,mac_hybrid_200_2048_1e-05
+151,monk_scale,scale 4,4,0.4842047393321991,scale 4,mac_hybrid_200_2048_1e-05
+152,fitz_type,type iii,2,0.9742341637611389,type iii,mac_hybrid_200_2048_1e-05
+153,male,1,1,0.99999774,0,mac_hybrid_200_2048_1e-05
+154,age,adult,0,0.9982427358627319,adult,mac_hybrid_200_2048_1e-05
+155,hair_type,wavy,3,0.34223464131355286,wavy,mac_hybrid_200_2048_1e-05
+156,hair_color,black,0,0.9916477203369141,black,mac_hybrid_200_2048_1e-05
+157,eye_color,black,1,0.836267352104187,black,mac_hybrid_200_2048_1e-05
+158,monk_scale,scale 4,4,0.8222094178199768,scale 4,mac_hybrid_200_2048_1e-05
+159,fitz_type,type iii,2,0.6888772249221802,type iii,mac_hybrid_200_2048_1e-05
+160,male,1,1,0.9999989,0,mac_hybrid_200_2048_1e-05
+161,age,adult,0,0.9723963141441345,adult,mac_hybrid_200_2048_1e-05
+162,hair_type,wavy,3,0.4912888705730438,wavy,mac_hybrid_200_2048_1e-05
+163,hair_color,black,0,0.9925813674926758,black,mac_hybrid_200_2048_1e-05
+164,eye_color,black,1,0.7818055748939514,black,mac_hybrid_200_2048_1e-05
+165,monk_scale,scale 4,4,0.5066245198249817,scale 4,mac_hybrid_200_2048_1e-05
+166,fitz_type,type iii,2,0.8415049910545349,type iii,mac_hybrid_200_2048_1e-05
+167,male,1,1,0.99999297,0,mac_hybrid_200_2048_1e-05
+168,age,adult,0,0.9932316541671753,adult,mac_hybrid_200_2048_1e-05
+169,hair_type,wavy,3,0.3535158634185791,wavy,mac_hybrid_200_2048_1e-05
+170,hair_color,black,0,0.9973675608634949,black,mac_hybrid_200_2048_1e-05
+171,eye_color,black,1,0.8238107562065125,black,mac_hybrid_200_2048_1e-05
+172,monk_scale,scale 4,4,0.8492119312286377,scale 4,mac_hybrid_200_2048_1e-05
+173,fitz_type,type iii,2,0.8453733921051025,type iii,mac_hybrid_200_2048_1e-05
+174,male,1,1,0.9999938,0,mac_hybrid_200_2048_1e-05
+175,age,adult,0,0.9591777324676514,adult,mac_hybrid_200_2048_1e-05
+176,hair_type,wavy,3,0.6546728014945984,wavy,mac_hybrid_200_2048_1e-05
+177,hair_color,black,0,0.9800006747245789,black,mac_hybrid_200_2048_1e-05
+178,eye_color,black,1,0.6946953535079956,black,mac_hybrid_200_2048_1e-05
+179,monk_scale,scale 4,4,0.378635436296463,scale 6,mac_hybrid_200_2048_1e-05
+180,fitz_type,type iii,2,0.6632829904556274,type iii,mac_hybrid_200_2048_1e-05
+181,male,1,1,0.99999857,0,mac_hybrid_200_2048_1e-05
+182,age,adult,0,0.9995668530464172,adult,mac_hybrid_200_2048_1e-05
+183,hair_type,wavy,3,0.062463849782943726,curly,mac_hybrid_200_2048_1e-05
+184,hair_color,black,0,0.8555446863174438,black,mac_hybrid_200_2048_1e-05
+185,eye_color,black,1,0.6521437168121338,black,mac_hybrid_200_2048_1e-05
+186,monk_scale,scale 4,4,0.8656625747680664,scale 4,mac_hybrid_200_2048_1e-05
+187,fitz_type,type iii,2,0.3539760708808899,type iv,mac_hybrid_200_2048_1e-05
+188,male,1,1,0.9999976,0,mac_hybrid_200_2048_1e-05
+189,age,adult,0,0.999646782875061,adult,mac_hybrid_200_2048_1e-05
+190,hair_type,wavy,3,0.6503041386604309,wavy,mac_hybrid_200_2048_1e-05
+191,hair_color,black,0,0.8609626293182373,black,mac_hybrid_200_2048_1e-05
+192,eye_color,black,1,0.8241465091705322,black,mac_hybrid_200_2048_1e-05
+193,monk_scale,scale 4,4,0.8880677223205566,scale 4,mac_hybrid_200_2048_1e-05
+194,fitz_type,type iii,2,0.8724772334098816,type iii,mac_hybrid_200_2048_1e-05
+195,male,1,1,0.99999744,0,mac_hybrid_200_2048_1e-05
+196,age,adult,0,0.9997280240058899,adult,mac_hybrid_200_2048_1e-05
+197,hair_type,wavy,3,0.7433151006698608,wavy,mac_hybrid_200_2048_1e-05
+198,hair_color,black,0,0.9547839760780334,black,mac_hybrid_200_2048_1e-05
+199,eye_color,black,1,0.968377411365509,black,mac_hybrid_200_2048_1e-05
+200,monk_scale,scale 4,4,0.833774209022522,scale 4,mac_hybrid_200_2048_1e-05
+201,fitz_type,type iii,2,0.9368930459022522,type iii,mac_hybrid_200_2048_1e-05
+202,male,1,1,0.9999993,0,mac_hybrid_200_2048_1e-05
+203,age,adult,0,0.9863147735595703,adult,mac_hybrid_200_2048_1e-05
+204,hair_type,wavy,3,0.7322354912757874,wavy,mac_hybrid_200_2048_1e-05
+205,hair_color,black,0,0.9645965099334717,black,mac_hybrid_200_2048_1e-05
+206,eye_color,black,1,0.8231188058853149,black,mac_hybrid_200_2048_1e-05
+207,monk_scale,scale 4,4,0.8445702791213989,scale 4,mac_hybrid_200_2048_1e-05
+208,fitz_type,type iii,2,0.7501596808433533,type iii,mac_hybrid_200_2048_1e-05
+209,male,1,1,0.9999979,0,mac_hybrid_200_2048_1e-05
+210,age,adult,0,0.9951340556144714,adult,mac_hybrid_200_2048_1e-05
+211,hair_type,wavy,3,0.5356573462486267,wavy,mac_hybrid_200_2048_1e-05
+212,hair_color,black,0,0.989832878112793,black,mac_hybrid_200_2048_1e-05
+213,eye_color,black,1,0.5936429500579834,black,mac_hybrid_200_2048_1e-05
+214,monk_scale,scale 4,4,0.5116497278213501,scale 4,mac_hybrid_200_2048_1e-05
+215,fitz_type,type iii,2,0.6730721592903137,type iii,mac_hybrid_200_2048_1e-05
+216,male,1,1,0.9999949,0,mac_hybrid_200_2048_1e-05
+217,age,adult,0,0.9965835213661194,adult,mac_hybrid_200_2048_1e-05
+218,hair_type,wavy,3,0.6895648837089539,wavy,mac_hybrid_200_2048_1e-05
+219,hair_color,black,0,0.9814203381538391,black,mac_hybrid_200_2048_1e-05
+220,eye_color,black,1,0.19048789143562317,brown,mac_hybrid_200_2048_1e-05
+221,monk_scale,scale 4,4,0.9815560579299927,scale 4,mac_hybrid_200_2048_1e-05
+222,fitz_type,type iii,2,0.17298559844493866,type iv,mac_hybrid_200_2048_1e-05
+223,male,1,1,0.9999996,0,mac_hybrid_200_2048_1e-05
+224,age,adult,0,0.9953864216804504,adult,mac_hybrid_200_2048_1e-05
+225,hair_type,wavy,3,0.8423861265182495,wavy,mac_hybrid_200_2048_1e-05
+226,hair_color,black,0,0.8838759064674377,black,mac_hybrid_200_2048_1e-05
+227,eye_color,black,1,0.4890706241130829,brown,mac_hybrid_200_2048_1e-05
+228,monk_scale,scale 4,4,0.39665812253952026,scale 5,mac_hybrid_200_2048_1e-05
+229,fitz_type,type iii,2,0.09401459246873856,type iv,mac_hybrid_200_2048_1e-05
+230,male,1,1,1.0,0,mac_hybrid_200_2048_1e-05
+231,age,adult,0,0.9909197092056274,adult,mac_hybrid_200_2048_1e-05
+232,hair_type,wavy,3,0.6493805050849915,wavy,mac_hybrid_200_2048_1e-05
+233,hair_color,black,0,0.997641921043396,black,mac_hybrid_200_2048_1e-05
+234,eye_color,black,1,0.9358142614364624,black,mac_hybrid_200_2048_1e-05
+235,monk_scale,scale 4,4,0.618009090423584,scale 4,mac_hybrid_200_2048_1e-05
+236,fitz_type,type iii,2,0.3306558430194855,type iv,mac_hybrid_200_2048_1e-05
+237,male,1,1,1.0,0,mac_hybrid_200_2048_1e-05
+238,age,adult,0,0.9991499185562134,adult,mac_hybrid_200_2048_1e-05
+239,hair_type,wavy,3,0.6945834159851074,wavy,mac_hybrid_200_2048_1e-05
+240,hair_color,black,0,0.8997703790664673,black,mac_hybrid_200_2048_1e-05
+241,eye_color,black,1,0.651329755783081,black,mac_hybrid_200_2048_1e-05
+242,monk_scale,scale 4,4,0.7324714064598083,scale 4,mac_hybrid_200_2048_1e-05
+243,fitz_type,type iii,2,0.84576416015625,type iii,mac_hybrid_200_2048_1e-05
+244,male,1,1,0.9999998,0,mac_hybrid_200_2048_1e-05
+245,age,adult,0,0.9984545707702637,adult,mac_hybrid_200_2048_1e-05
+246,hair_type,wavy,3,0.6538529396057129,wavy,mac_hybrid_200_2048_1e-05
+247,hair_color,black,0,0.9660565257072449,black,mac_hybrid_200_2048_1e-05
+248,eye_color,black,1,0.9889971017837524,black,mac_hybrid_200_2048_1e-05
+249,monk_scale,scale 4,4,0.9653010368347168,scale 4,mac_hybrid_200_2048_1e-05
+250,fitz_type,type iii,2,0.5082070827484131,type iii,mac_hybrid_200_2048_1e-05
+251,male,1,1,1.0,0,mac_hybrid_200_2048_1e-05
+252,age,adult,0,0.9969127178192139,adult,mac_hybrid_200_2048_1e-05
+253,hair_type,wavy,3,0.7670380473136902,wavy,mac_hybrid_200_2048_1e-05
+254,hair_color,black,0,0.8816236853599548,black,mac_hybrid_200_2048_1e-05
+255,eye_color,black,1,0.2502278685569763,brown,mac_hybrid_200_2048_1e-05
+256,monk_scale,scale 4,4,0.7399547100067139,scale 4,mac_hybrid_200_2048_1e-05
+257,fitz_type,type iii,2,0.7683796286582947,type iii,mac_hybrid_200_2048_1e-05
+258,male,1,1,0.999995,0,mac_hybrid_200_2048_1e-05
+259,age,adult,0,0.9969237446784973,adult,mac_hybrid_200_2048_1e-05
+260,hair_type,wavy,3,0.680901288986206,wavy,mac_hybrid_200_2048_1e-05
+261,hair_color,black,0,0.9831445217132568,black,mac_hybrid_200_2048_1e-05
+262,eye_color,black,1,0.3207157850265503,brown,mac_hybrid_200_2048_1e-05
+263,monk_scale,scale 4,4,0.7182631492614746,scale 4,mac_hybrid_200_2048_1e-05
+264,fitz_type,type iii,2,0.40275681018829346,type iv,mac_hybrid_200_2048_1e-05
+265,male,1,1,0.9999152,0,mac_hybrid_200_2048_1e-05
+266,age,adult,0,0.9974660873413086,adult,mac_hybrid_200_2048_1e-05
+267,hair_type,wavy,3,0.2364215850830078,curly,mac_hybrid_200_2048_1e-05
+268,hair_color,black,0,0.9056524038314819,black,mac_hybrid_200_2048_1e-05
+269,eye_color,black,1,0.6309043169021606,black,mac_hybrid_200_2048_1e-05
+270,monk_scale,scale 4,4,0.7835105061531067,scale 4,mac_hybrid_200_2048_1e-05
+271,fitz_type,type iii,2,0.7869865298271179,type iii,mac_hybrid_200_2048_1e-05
+272,male,1,1,0.9999991,0,mac_hybrid_200_2048_1e-05
+273,age,adult,0,0.9971352815628052,adult,mac_hybrid_200_2048_1e-05
+274,hair_type,wavy,3,0.869559645652771,wavy,mac_hybrid_200_2048_1e-05
+275,hair_color,black,0,0.9276796579360962,black,mac_hybrid_200_2048_1e-05
+276,eye_color,black,1,0.3604271411895752,brown,mac_hybrid_200_2048_1e-05
+277,monk_scale,scale 4,4,0.1297440528869629,scale 5,mac_hybrid_200_2048_1e-05
+278,fitz_type,type iii,2,0.19721786677837372,type iv,mac_hybrid_200_2048_1e-05
+279,male,1,1,0.99999684,0,mac_hybrid_200_2048_1e-05
+280,age,adult,0,0.9767340421676636,adult,mac_hybrid_200_2048_1e-05
+281,hair_type,wavy,3,0.626523494720459,wavy,mac_hybrid_200_2048_1e-05
+282,hair_color,black,0,0.9877570867538452,black,mac_hybrid_200_2048_1e-05
+283,eye_color,black,1,0.9391915202140808,black,mac_hybrid_200_2048_1e-05
+284,monk_scale,scale 4,4,0.958246648311615,scale 4,mac_hybrid_200_2048_1e-05
+285,fitz_type,type iii,2,0.5738873481750488,type iii,mac_hybrid_200_2048_1e-05
+286,male,1,1,0.9999998,0,mac_hybrid_200_2048_1e-05
+287,age,adult,0,0.9785082340240479,adult,mac_hybrid_200_2048_1e-05
+288,hair_type,wavy,3,0.7585318088531494,wavy,mac_hybrid_200_2048_1e-05
+289,hair_color,black,0,0.9867521524429321,black,mac_hybrid_200_2048_1e-05
+290,eye_color,black,1,0.3289682865142822,brown,mac_hybrid_200_2048_1e-05
+291,monk_scale,scale 4,4,0.7000824213027954,scale 4,mac_hybrid_200_2048_1e-05
+292,fitz_type,type iii,2,0.8586833477020264,type iii,mac_hybrid_200_2048_1e-05
+293,male,1,1,0.9999997,0,mac_hybrid_200_2048_1e-05
+294,age,adult,0,0.99506014585495,adult,mac_hybrid_200_2048_1e-05
+295,hair_type,wavy,3,0.5408656001091003,wavy,mac_hybrid_200_2048_1e-05
+296,hair_color,black,0,0.9953996539115906,black,mac_hybrid_200_2048_1e-05
+297,eye_color,black,1,0.9753041863441467,black,mac_hybrid_200_2048_1e-05
+298,monk_scale,scale 4,4,0.9743320345878601,scale 4,mac_hybrid_200_2048_1e-05
+299,fitz_type,type iii,2,0.4156883955001831,type iv,mac_hybrid_200_2048_1e-05
+300,male,1,1,0.99999976,0,mac_hybrid_200_2048_1e-05
+301,age,adult,0,0.9857053756713867,adult,mac_hybrid_200_2048_1e-05
+302,hair_type,wavy,3,0.05653364956378937,curly,mac_hybrid_200_2048_1e-05
+303,hair_color,black,0,0.9435707330703735,black,mac_hybrid_200_2048_1e-05
+304,eye_color,black,1,0.7022371888160706,black,mac_hybrid_200_2048_1e-05
+305,monk_scale,scale 4,4,0.8684141635894775,scale 4,mac_hybrid_200_2048_1e-05
+306,fitz_type,type iii,2,0.9589923024177551,type iii,mac_hybrid_200_2048_1e-05
+307,male,1,1,0.99998987,0,mac_hybrid_200_2048_1e-05
+308,age,adult,0,0.9939275979995728,adult,mac_hybrid_200_2048_1e-05
+309,hair_type,wavy,3,0.7863152623176575,wavy,mac_hybrid_200_2048_1e-05
+310,hair_color,black,0,0.956584632396698,black,mac_hybrid_200_2048_1e-05
+311,eye_color,black,1,0.9600000381469727,black,mac_hybrid_200_2048_1e-05
+312,monk_scale,scale 4,4,0.7935774326324463,scale 4,mac_hybrid_200_2048_1e-05
+313,fitz_type,type iii,2,0.9220527410507202,type iii,mac_hybrid_200_2048_1e-05
+314,male,1,1,0.9999993,0,mac_hybrid_200_2048_1e-05
+315,age,adult,0,0.9940177202224731,adult,mac_hybrid_200_2048_1e-05
+316,hair_type,wavy,3,0.8886938691139221,wavy,mac_hybrid_200_2048_1e-05
+317,hair_color,black,0,0.6277501583099365,black,mac_hybrid_200_2048_1e-05
+318,eye_color,black,1,0.7292413711547852,black,mac_hybrid_200_2048_1e-05
+319,monk_scale,scale 4,4,0.3437787890434265,scale 5,mac_hybrid_200_2048_1e-05
+320,fitz_type,type iii,2,0.710027813911438,type iii,mac_hybrid_200_2048_1e-05
+321,male,1,1,0.99999845,0,mac_hybrid_200_2048_1e-05
+322,age,adult,0,0.9881161451339722,adult,mac_hybrid_200_2048_1e-05
+323,hair_type,wavy,3,0.6494323015213013,wavy,mac_hybrid_200_2048_1e-05
+324,hair_color,black,0,0.9840556383132935,black,mac_hybrid_200_2048_1e-05
+325,eye_color,black,1,0.7271358370780945,black,mac_hybrid_200_2048_1e-05
+326,monk_scale,scale 4,4,0.8970507979393005,scale 4,mac_hybrid_200_2048_1e-05
+327,fitz_type,type iii,2,0.571917712688446,type iii,mac_hybrid_200_2048_1e-05
+328,male,1,1,0.9999995,0,mac_hybrid_200_2048_1e-05
+329,age,adult,0,0.9980704188346863,adult,mac_hybrid_200_2048_1e-05
+330,hair_type,wavy,3,0.6127973794937134,wavy,mac_hybrid_200_2048_1e-05
+331,hair_color,black,0,0.9961186647415161,black,mac_hybrid_200_2048_1e-05
+332,eye_color,black,1,0.9140812754631042,black,mac_hybrid_200_2048_1e-05
+333,monk_scale,scale 4,4,0.12569856643676758,scale 5,mac_hybrid_200_2048_1e-05
+334,fitz_type,type iii,2,0.055884577333927155,type iv,mac_hybrid_200_2048_1e-05
+335,male,1,1,0.99999803,0,mac_hybrid_200_2048_1e-05
+336,age,adult,0,0.985847532749176,adult,mac_hybrid_200_2048_1e-05
+337,hair_type,wavy,3,0.8741871118545532,wavy,mac_hybrid_200_2048_1e-05
+338,hair_color,black,0,0.9592389464378357,black,mac_hybrid_200_2048_1e-05
+339,eye_color,black,1,0.8001477122306824,black,mac_hybrid_200_2048_1e-05
+340,monk_scale,scale 4,4,0.6795489192008972,scale 4,mac_hybrid_200_2048_1e-05
+341,fitz_type,type iii,2,0.8289124965667725,type iii,mac_hybrid_200_2048_1e-05
+342,male,1,1,1.0,0,mac_hybrid_200_2048_1e-05
+343,age,adult,0,0.980472981929779,adult,mac_hybrid_200_2048_1e-05
+344,hair_type,wavy,3,0.8371993899345398,wavy,mac_hybrid_200_2048_1e-05
+345,hair_color,black,0,0.9968236684799194,black,mac_hybrid_200_2048_1e-05
+346,eye_color,black,1,0.7480336427688599,black,mac_hybrid_200_2048_1e-05
+347,monk_scale,scale 4,4,0.5032145380973816,scale 4,mac_hybrid_200_2048_1e-05
+348,fitz_type,type iii,2,0.9944981932640076,type iii,mac_hybrid_200_2048_1e-05
+349,male,1,1,0.99999905,0,mac_hybrid_200_2048_1e-05
+350,age,adult,0,0.8080417513847351,adult,mac_hybrid_200_2048_1e-05
+351,hair_type,wavy,3,0.18406957387924194,curly,mac_hybrid_200_2048_1e-05
+352,hair_color,black,0,0.9484390020370483,black,mac_hybrid_200_2048_1e-05
+353,eye_color,black,1,0.9689996838569641,black,mac_hybrid_200_2048_1e-05
+354,monk_scale,scale 4,4,0.6854637861251831,scale 4,mac_hybrid_200_2048_1e-05
+355,fitz_type,type iii,2,0.9520962834358215,type iii,mac_hybrid_200_2048_1e-05
+356,male,1,1,0.9999985,0,mac_hybrid_200_2048_1e-05
+357,age,adult,0,0.9984910488128662,adult,mac_hybrid_200_2048_1e-05
+358,hair_type,wavy,3,0.8528006076812744,wavy,mac_hybrid_200_2048_1e-05
+359,hair_color,black,0,0.9831908345222473,black,mac_hybrid_200_2048_1e-05
+360,eye_color,black,1,0.8748539686203003,black,mac_hybrid_200_2048_1e-05
+361,monk_scale,scale 4,4,0.8904120922088623,scale 4,mac_hybrid_200_2048_1e-05
+362,fitz_type,type iii,2,0.11609084159135818,type iv,mac_hybrid_200_2048_1e-05
+363,male,1,1,0.99999887,0,mac_hybrid_200_2048_1e-05
+364,age,adult,0,0.9984790682792664,adult,mac_hybrid_200_2048_1e-05
+365,hair_type,wavy,3,0.5777700543403625,wavy,mac_hybrid_200_2048_1e-05
+366,hair_color,black,0,0.7655138373374939,black,mac_hybrid_200_2048_1e-05
+367,eye_color,black,1,0.9075492024421692,black,mac_hybrid_200_2048_1e-05
+368,monk_scale,scale 4,4,0.43878278136253357,scale 4,mac_hybrid_200_2048_1e-05
+369,fitz_type,type iii,2,0.8251600861549377,type iii,mac_hybrid_200_2048_1e-05
+370,male,1,1,0.9999998,0,mac_hybrid_200_2048_1e-05
+371,age,adult,0,0.9935652613639832,adult,mac_hybrid_200_2048_1e-05
+372,hair_type,wavy,3,0.4029744565486908,straight,mac_hybrid_200_2048_1e-05
+373,hair_color,black,0,0.9864142537117004,black,mac_hybrid_200_2048_1e-05
+374,eye_color,black,1,0.7941498756408691,black,mac_hybrid_200_2048_1e-05
+375,monk_scale,scale 4,4,0.6429497003555298,scale 4,mac_hybrid_200_2048_1e-05
+376,fitz_type,type iii,2,0.25287702679634094,type iv,mac_hybrid_200_2048_1e-05
+377,male,1,1,0.9999906,0,mac_hybrid_200_2048_1e-05
+378,age,adult,0,0.9963376522064209,adult,mac_hybrid_200_2048_1e-05
+379,hair_type,wavy,3,0.5169513821601868,wavy,mac_hybrid_200_2048_1e-05
+380,hair_color,black,0,0.9930477738380432,black,mac_hybrid_200_2048_1e-05
+381,eye_color,black,1,0.5056511163711548,black,mac_hybrid_200_2048_1e-05
+382,monk_scale,scale 4,4,0.39370912313461304,scale 5,mac_hybrid_200_2048_1e-05
+383,fitz_type,type iii,2,0.7168817520141602,type iii,mac_hybrid_200_2048_1e-05
+384,male,1,1,0.9999998,0,mac_hybrid_200_2048_1e-05
+385,age,adult,0,0.9722245335578918,adult,mac_hybrid_200_2048_1e-05
+386,hair_type,wavy,3,0.8204725384712219,wavy,mac_hybrid_200_2048_1e-05
+387,hair_color,black,0,0.7803135514259338,black,mac_hybrid_200_2048_1e-05
+388,eye_color,black,1,0.7774121761322021,black,mac_hybrid_200_2048_1e-05
+389,monk_scale,scale 4,4,0.2732182741165161,scale 5,mac_hybrid_200_2048_1e-05
+390,fitz_type,type iii,2,0.15494367480278015,type iv,mac_hybrid_200_2048_1e-05
+391,male,1,1,0.9999999,0,mac_hybrid_200_2048_1e-05
+392,age,adult,0,0.997271716594696,adult,mac_hybrid_200_2048_1e-05
+393,hair_type,wavy,3,0.7158680558204651,wavy,mac_hybrid_200_2048_1e-05
+394,hair_color,black,0,0.9604891538619995,black,mac_hybrid_200_2048_1e-05
+395,eye_color,black,1,0.5795311331748962,black,mac_hybrid_200_2048_1e-05
+396,monk_scale,scale 4,4,0.22501154243946075,scale 6,mac_hybrid_200_2048_1e-05
+397,fitz_type,type iii,2,0.2988543212413788,type iv,mac_hybrid_200_2048_1e-05
+398,male,1,1,1.0,0,mac_hybrid_200_2048_1e-05
+399,age,adult,0,0.9972327351570129,adult,mac_hybrid_200_2048_1e-05
+400,hair_type,wavy,3,0.9245612621307373,wavy,mac_hybrid_200_2048_1e-05
+401,hair_color,black,0,0.9986585378646851,black,mac_hybrid_200_2048_1e-05
+402,eye_color,black,1,0.4120854139328003,brown,mac_hybrid_200_2048_1e-05
+403,monk_scale,scale 4,4,0.9853951930999756,scale 4,mac_hybrid_200_2048_1e-05
+404,fitz_type,type iii,2,0.6571356654167175,type iii,mac_hybrid_200_2048_1e-05
+405,male,1,1,0.99999964,0,mac_hybrid_200_2048_1e-05
+406,age,adult,0,0.9952464699745178,adult,mac_hybrid_200_2048_1e-05
+407,hair_type,wavy,3,0.31530553102493286,curly,mac_hybrid_200_2048_1e-05
+408,hair_color,black,0,0.970789909362793,black,mac_hybrid_200_2048_1e-05
+409,eye_color,black,1,0.6086539030075073,black,mac_hybrid_200_2048_1e-05
+410,monk_scale,scale 4,4,0.5118743777275085,scale 4,mac_hybrid_200_2048_1e-05
+411,fitz_type,type iii,2,0.9708338379859924,type iii,mac_hybrid_200_2048_1e-05
+412,male,1,1,0.99998474,0,mac_hybrid_200_2048_1e-05
+413,age,adult,0,0.9986061453819275,adult,mac_hybrid_200_2048_1e-05
+414,hair_type,wavy,3,0.7383987307548523,wavy,mac_hybrid_200_2048_1e-05
+415,hair_color,black,0,0.5900498032569885,black,mac_hybrid_200_2048_1e-05
+416,eye_color,black,1,0.8581900596618652,black,mac_hybrid_200_2048_1e-05
+417,monk_scale,scale 4,4,0.9741597175598145,scale 4,mac_hybrid_200_2048_1e-05
+418,fitz_type,type iii,2,0.4540019631385803,type iv,mac_hybrid_200_2048_1e-05
+419,male,1,1,0.9999997,0,mac_hybrid_200_2048_1e-05
+420,age,adult,0,0.9806256294250488,adult,mac_hybrid_200_2048_1e-05
+421,hair_type,wavy,3,0.7922058701515198,wavy,mac_hybrid_200_2048_1e-05
+422,hair_color,black,0,0.9961574673652649,black,mac_hybrid_200_2048_1e-05
+423,eye_color,black,1,0.600369393825531,black,mac_hybrid_200_2048_1e-05
+424,monk_scale,scale 4,4,0.4353099465370178,scale 5,mac_hybrid_200_2048_1e-05
+425,fitz_type,type iii,2,0.45612362027168274,type iv,mac_hybrid_200_2048_1e-05
+426,male,1,1,1.0,0,mac_hybrid_200_2048_1e-05
+427,age,adult,0,0.964665949344635,adult,mac_hybrid_200_2048_1e-05
+428,hair_type,wavy,3,0.8437014818191528,wavy,mac_hybrid_200_2048_1e-05
+429,hair_color,black,0,0.9843325614929199,black,mac_hybrid_200_2048_1e-05
+430,eye_color,black,1,0.9463497400283813,black,mac_hybrid_200_2048_1e-05
+431,monk_scale,scale 4,4,0.472087562084198,scale 4,mac_hybrid_200_2048_1e-05
+432,fitz_type,type iii,2,0.05286724865436554,type iv,mac_hybrid_200_2048_1e-05
+433,male,1,1,1.0,0,mac_hybrid_200_2048_1e-05
+434,age,adult,0,0.9867178201675415,adult,mac_hybrid_200_2048_1e-05
+435,hair_type,wavy,3,0.42685505747795105,curly,mac_hybrid_200_2048_1e-05
+436,hair_color,black,0,0.9757981896400452,black,mac_hybrid_200_2048_1e-05
+437,eye_color,black,1,0.7509179711341858,black,mac_hybrid_200_2048_1e-05
+438,monk_scale,scale 4,4,0.42835164070129395,scale 4,mac_hybrid_200_2048_1e-05
+439,fitz_type,type iii,2,0.42061057686805725,type iv,mac_hybrid_200_2048_1e-05
+440,male,1,1,0.9999954,0,mac_hybrid_200_2048_1e-05
+441,age,adult,0,0.9954593777656555,adult,mac_hybrid_200_2048_1e-05
+442,hair_type,wavy,3,0.09749478101730347,straight,mac_hybrid_200_2048_1e-05
+443,hair_color,black,0,0.3515580892562866,brunette,mac_hybrid_200_2048_1e-05
+444,eye_color,black,1,0.12367350608110428,brown,mac_hybrid_200_2048_1e-05
+445,monk_scale,scale 4,4,0.789608895778656,scale 4,mac_hybrid_200_2048_1e-05
+446,fitz_type,type iii,2,0.9826217889785767,type iii,mac_hybrid_200_2048_1e-05
+447,male,1,1,1.0,0,mac_hybrid_200_2048_1e-05
+448,age,adult,0,0.9965384006500244,adult,mac_hybrid_200_2048_1e-05
+449,hair_type,wavy,3,0.9016184210777283,wavy,mac_hybrid_200_2048_1e-05
+450,hair_color,black,0,0.9742600321769714,black,mac_hybrid_200_2048_1e-05
+451,eye_color,black,1,0.7635408639907837,black,mac_hybrid_200_2048_1e-05
+452,monk_scale,scale 4,4,0.9664775729179382,scale 4,mac_hybrid_200_2048_1e-05
+453,fitz_type,type iii,2,0.27873390913009644,type iv,mac_hybrid_200_2048_1e-05
+454,male,1,1,0.9999995,0,mac_hybrid_200_2048_1e-05
+455,age,adult,0,0.9986335635185242,adult,mac_hybrid_200_2048_1e-05
+456,hair_type,wavy,3,0.3940366804599762,wavy,mac_hybrid_200_2048_1e-05
+457,hair_color,black,0,0.9921318888664246,black,mac_hybrid_200_2048_1e-05
+458,eye_color,black,1,0.22722826898097992,brown,mac_hybrid_200_2048_1e-05
+459,monk_scale,scale 4,4,0.3943958580493927,scale 6,mac_hybrid_200_2048_1e-05
+460,fitz_type,type iii,2,0.4953560531139374,type iv,mac_hybrid_200_2048_1e-05
+461,male,1,1,0.9999693,0,mac_hybrid_200_2048_1e-05
+462,age,adult,0,0.9958403706550598,adult,mac_hybrid_200_2048_1e-05
+463,hair_type,wavy,3,0.2093518227338791,curly,mac_hybrid_200_2048_1e-05
+464,hair_color,black,0,0.9358034133911133,black,mac_hybrid_200_2048_1e-05
+465,eye_color,black,1,0.33651164174079895,brown,mac_hybrid_200_2048_1e-05
+466,monk_scale,scale 4,4,0.6480226516723633,scale 4,mac_hybrid_200_2048_1e-05
+467,fitz_type,type iii,2,0.6989060044288635,type iii,mac_hybrid_200_2048_1e-05
+468,male,1,1,0.9999916,0,mac_hybrid_200_2048_1e-05
+469,age,adult,0,0.9938336610794067,adult,mac_hybrid_200_2048_1e-05
+470,hair_type,wavy,3,0.4697157144546509,wavy,mac_hybrid_200_2048_1e-05
+471,hair_color,black,0,0.9944341778755188,black,mac_hybrid_200_2048_1e-05
+472,eye_color,black,1,0.3883220851421356,brown,mac_hybrid_200_2048_1e-05
+473,monk_scale,scale 4,4,0.07594111561775208,scale 5,mac_hybrid_200_2048_1e-05
+474,fitz_type,type iii,2,0.9145022034645081,type iii,mac_hybrid_200_2048_1e-05
+475,male,1,1,0.9999978,0,mac_hybrid_200_2048_1e-05
+476,age,adult,0,0.999405026435852,adult,mac_hybrid_200_2048_1e-05
+477,hair_type,wavy,3,0.8934935331344604,wavy,mac_hybrid_200_2048_1e-05
+478,hair_color,black,0,0.9649210572242737,black,mac_hybrid_200_2048_1e-05
+479,eye_color,black,1,0.3946382403373718,brown,mac_hybrid_200_2048_1e-05
+480,monk_scale,scale 4,4,0.3773392140865326,scale 5,mac_hybrid_200_2048_1e-05
+481,fitz_type,type iii,2,0.3038281798362732,type iv,mac_hybrid_200_2048_1e-05
+482,male,1,1,1.0,0,mac_hybrid_200_2048_1e-05
+483,age,adult,0,0.9994599223136902,adult,mac_hybrid_200_2048_1e-05
+484,hair_type,wavy,3,0.7466055750846863,wavy,mac_hybrid_200_2048_1e-05
+485,hair_color,black,0,0.8521350026130676,black,mac_hybrid_200_2048_1e-05
+486,eye_color,black,1,0.9451364874839783,black,mac_hybrid_200_2048_1e-05
+487,monk_scale,scale 4,4,0.8758329749107361,scale 4,mac_hybrid_200_2048_1e-05
+488,fitz_type,type iii,2,0.1301233470439911,type iv,mac_hybrid_200_2048_1e-05
+489,male,1,1,0.99999964,0,mac_hybrid_200_2048_1e-05
+490,age,adult,0,0.9896247982978821,adult,mac_hybrid_200_2048_1e-05
+491,hair_type,wavy,3,0.7471358180046082,wavy,mac_hybrid_200_2048_1e-05
+492,hair_color,black,0,0.7529662251472473,black,mac_hybrid_200_2048_1e-05
+493,eye_color,black,1,0.9823801517486572,black,mac_hybrid_200_2048_1e-05
+494,monk_scale,scale 4,4,0.9259754419326782,scale 4,mac_hybrid_200_2048_1e-05
+495,fitz_type,type iii,2,0.7321220636367798,type iii,mac_hybrid_200_2048_1e-05
+496,male,1,1,0.9999998,0,mac_hybrid_200_2048_1e-05
+497,age,adult,0,0.9953743815422058,adult,mac_hybrid_200_2048_1e-05
+498,hair_type,wavy,3,0.7526839375495911,wavy,mac_hybrid_200_2048_1e-05
+499,hair_color,black,0,0.951470136642456,black,mac_hybrid_200_2048_1e-05
+500,eye_color,black,1,0.6952863931655884,black,mac_hybrid_200_2048_1e-05
+501,monk_scale,scale 4,4,0.15250065922737122,scale 5,mac_hybrid_200_2048_1e-05
+502,fitz_type,type iii,2,0.9680803418159485,type iii,mac_hybrid_200_2048_1e-05
+503,male,1,1,0.99999875,0,mac_hybrid_200_2048_1e-05
+504,age,adult,0,0.9986397624015808,adult,mac_hybrid_200_2048_1e-05
+505,hair_type,wavy,3,0.7140552401542664,wavy,mac_hybrid_200_2048_1e-05
+506,hair_color,black,0,0.9996917247772217,black,mac_hybrid_200_2048_1e-05
+507,eye_color,black,1,0.9782936573028564,black,mac_hybrid_200_2048_1e-05
+508,monk_scale,scale 4,4,0.924699068069458,scale 4,mac_hybrid_200_2048_1e-05
+509,fitz_type,type iii,2,0.547895610332489,type iii,mac_hybrid_200_2048_1e-05
+510,male,1,1,0.9999998,0,mac_hybrid_200_2048_1e-05
+511,age,adult,0,0.9975897073745728,adult,mac_hybrid_200_2048_1e-05
+512,hair_type,wavy,3,0.9748852849006653,wavy,mac_hybrid_200_2048_1e-05
+513,hair_color,black,0,0.9831970930099487,black,mac_hybrid_200_2048_1e-05
+514,eye_color,black,1,0.7942728400230408,black,mac_hybrid_200_2048_1e-05
+515,monk_scale,scale 4,4,0.597399115562439,scale 4,mac_hybrid_200_2048_1e-05
+516,fitz_type,type iii,2,0.9034174680709839,type iii,mac_hybrid_200_2048_1e-05
+517,male,1,1,0.99999964,0,mac_hybrid_200_2048_1e-05
+518,age,adult,0,0.8078456521034241,adult,mac_hybrid_200_2048_1e-05
+519,hair_type,wavy,3,0.4360180199146271,wavy,mac_hybrid_200_2048_1e-05
+520,hair_color,black,0,0.48353633284568787,gray,mac_hybrid_200_2048_1e-05
+521,eye_color,black,1,0.9370160698890686,black,mac_hybrid_200_2048_1e-05
+522,monk_scale,scale 4,4,0.6792879104614258,scale 4,mac_hybrid_200_2048_1e-05
+523,fitz_type,type iii,2,0.35144519805908203,type iv,mac_hybrid_200_2048_1e-05
+524,male,1,1,0.99999905,0,mac_hybrid_200_2048_1e-05
+525,age,adult,0,0.9845288395881653,adult,mac_hybrid_200_2048_1e-05
+526,hair_type,wavy,3,0.5070813298225403,wavy,mac_hybrid_200_2048_1e-05
+527,hair_color,black,0,0.897221565246582,black,mac_hybrid_200_2048_1e-05
+528,eye_color,black,1,0.61224365234375,black,mac_hybrid_200_2048_1e-05
+529,monk_scale,scale 4,4,0.6997267603874207,scale 4,mac_hybrid_200_2048_1e-05
+530,fitz_type,type iii,2,0.628129780292511,type iii,mac_hybrid_200_2048_1e-05
+531,male,1,1,1.0,0,mac_hybrid_200_2048_1e-05
+532,age,adult,0,0.9912493228912354,adult,mac_hybrid_200_2048_1e-05
+533,hair_type,wavy,3,0.9118585586547852,wavy,mac_hybrid_200_2048_1e-05
+534,hair_color,black,0,0.9720093607902527,black,mac_hybrid_200_2048_1e-05
+535,eye_color,black,1,0.8647098541259766,black,mac_hybrid_200_2048_1e-05
+536,monk_scale,scale 4,4,0.23960073292255402,scale 6,mac_hybrid_200_2048_1e-05
+537,fitz_type,type iii,2,0.30336087942123413,type iv,mac_hybrid_200_2048_1e-05
+538,male,1,1,0.99999994,0,mac_hybrid_200_2048_1e-05
+539,age,adult,0,0.9945335388183594,adult,mac_hybrid_200_2048_1e-05
+540,hair_type,wavy,3,0.18493202328681946,curly,mac_hybrid_200_2048_1e-05
+541,hair_color,black,0,0.5225564241409302,black,mac_hybrid_200_2048_1e-05
+542,eye_color,black,1,0.7664728760719299,black,mac_hybrid_200_2048_1e-05
+543,monk_scale,scale 4,4,0.6020932197570801,scale 4,mac_hybrid_200_2048_1e-05
+544,fitz_type,type iii,2,0.6642945408821106,type iii,mac_hybrid_200_2048_1e-05
+545,male,1,1,0.9999996,0,mac_hybrid_200_2048_1e-05
+546,age,adult,0,0.9759674668312073,adult,mac_hybrid_200_2048_1e-05
+547,hair_type,wavy,3,0.8315845131874084,wavy,mac_hybrid_200_2048_1e-05
+548,hair_color,black,0,0.9971575736999512,black,mac_hybrid_200_2048_1e-05
+549,eye_color,black,1,0.44981780648231506,brown,mac_hybrid_200_2048_1e-05
+550,monk_scale,scale 4,4,0.7920772433280945,scale 4,mac_hybrid_200_2048_1e-05
+551,fitz_type,type iii,2,0.8534406423568726,type iii,mac_hybrid_200_2048_1e-05
+552,male,1,1,0.99997425,0,mac_hybrid_200_2048_1e-05
+553,age,adult,0,0.9944557547569275,adult,mac_hybrid_200_2048_1e-05
+554,hair_type,wavy,3,0.24344374239444733,straight,mac_hybrid_200_2048_1e-05
+555,hair_color,black,0,0.9149616360664368,black,mac_hybrid_200_2048_1e-05
+556,eye_color,black,1,0.26609930396080017,brown,mac_hybrid_200_2048_1e-05
+557,monk_scale,scale 4,4,0.6108523607254028,scale 4,mac_hybrid_200_2048_1e-05
+558,fitz_type,type iii,2,0.03699368238449097,type iv,mac_hybrid_200_2048_1e-05
+559,male,1,1,0.99999857,0,mac_hybrid_200_2048_1e-05
+560,age,adult,0,0.9834219813346863,adult,mac_hybrid_200_2048_1e-05
+561,hair_type,wavy,3,0.5597126483917236,wavy,mac_hybrid_200_2048_1e-05
+562,hair_color,black,0,0.9391520023345947,black,mac_hybrid_200_2048_1e-05
+563,eye_color,black,1,0.9437231421470642,black,mac_hybrid_200_2048_1e-05
+564,monk_scale,scale 4,4,0.17843633890151978,scale 6,mac_hybrid_200_2048_1e-05
+565,fitz_type,type iii,2,0.6718510389328003,type iii,mac_hybrid_200_2048_1e-05
+566,male,1,1,0.9999932,0,mac_hybrid_200_2048_1e-05
+567,age,adult,0,0.9925329685211182,adult,mac_hybrid_200_2048_1e-05
+568,hair_type,wavy,3,0.5529791712760925,wavy,mac_hybrid_200_2048_1e-05
+569,hair_color,black,0,0.9756696820259094,black,mac_hybrid_200_2048_1e-05
+570,eye_color,black,1,0.5549622774124146,black,mac_hybrid_200_2048_1e-05
+571,monk_scale,scale 4,4,0.9887363314628601,scale 4,mac_hybrid_200_2048_1e-05
+572,fitz_type,type iii,2,0.4506016671657562,type iv,mac_hybrid_200_2048_1e-05
+573,male,1,1,0.99999845,0,mac_hybrid_200_2048_1e-05
+574,age,adult,0,0.9927781224250793,adult,mac_hybrid_200_2048_1e-05
+575,hair_type,wavy,3,0.9066172242164612,wavy,mac_hybrid_200_2048_1e-05
+576,hair_color,black,0,0.9873281121253967,black,mac_hybrid_200_2048_1e-05
+577,eye_color,black,1,0.6480006575584412,black,mac_hybrid_200_2048_1e-05
+578,monk_scale,scale 4,4,0.5386664271354675,scale 4,mac_hybrid_200_2048_1e-05
+579,fitz_type,type iii,2,0.8071595430374146,type iii,mac_hybrid_200_2048_1e-05
+580,male,1,1,0.9999965,0,mac_hybrid_200_2048_1e-05
+581,age,adult,0,0.9889811277389526,adult,mac_hybrid_200_2048_1e-05
+582,hair_type,wavy,3,0.36650633811950684,curly,mac_hybrid_200_2048_1e-05
+583,hair_color,black,0,0.9986417889595032,black,mac_hybrid_200_2048_1e-05
+584,eye_color,black,1,0.16435456275939941,brown,mac_hybrid_200_2048_1e-05
+585,monk_scale,scale 4,4,0.84562087059021,scale 4,mac_hybrid_200_2048_1e-05
+586,fitz_type,type iii,2,0.6122035980224609,type iii,mac_hybrid_200_2048_1e-05
+587,male,1,1,1.0,0,mac_hybrid_200_2048_1e-05
+588,age,adult,0,0.9975354671478271,adult,mac_hybrid_200_2048_1e-05
+589,hair_type,wavy,3,0.8986902832984924,wavy,mac_hybrid_200_2048_1e-05
+590,hair_color,black,0,0.9223589897155762,black,mac_hybrid_200_2048_1e-05
+591,eye_color,black,1,0.7973129749298096,black,mac_hybrid_200_2048_1e-05
+592,monk_scale,scale 4,4,0.9642015099525452,scale 4,mac_hybrid_200_2048_1e-05
+593,fitz_type,type iii,2,0.8404384851455688,type iii,mac_hybrid_200_2048_1e-05
+594,male,1,1,0.9999996,0,mac_hybrid_200_2048_1e-05
+595,age,adult,0,0.9670296311378479,adult,mac_hybrid_200_2048_1e-05
+596,hair_type,wavy,3,0.9886499643325806,wavy,mac_hybrid_200_2048_1e-05
+597,hair_color,black,0,0.8607443571090698,black,mac_hybrid_200_2048_1e-05
+598,eye_color,black,1,0.7342482805252075,black,mac_hybrid_200_2048_1e-05
+599,monk_scale,scale 4,4,0.5000469088554382,scale 4,mac_hybrid_200_2048_1e-05
+600,fitz_type,type iii,2,0.38459551334381104,type iv,mac_hybrid_200_2048_1e-05
+601,male,1,1,1.0,0,mac_hybrid_200_2048_1e-05
+602,age,adult,0,0.9843972325325012,adult,mac_hybrid_200_2048_1e-05
+603,hair_type,wavy,3,0.4900360703468323,wavy,mac_hybrid_200_2048_1e-05
+604,hair_color,black,0,0.9544922709465027,black,mac_hybrid_200_2048_1e-05
+605,eye_color,black,1,0.9782475829124451,black,mac_hybrid_200_2048_1e-05
+606,monk_scale,scale 4,4,0.8173349499702454,scale 4,mac_hybrid_200_2048_1e-05
+607,fitz_type,type iii,2,0.876181960105896,type iii,mac_hybrid_200_2048_1e-05
+608,male,1,1,0.99999994,0,mac_hybrid_200_2048_1e-05
+609,age,adult,0,0.9954558610916138,adult,mac_hybrid_200_2048_1e-05
+610,hair_type,wavy,3,0.6579792499542236,wavy,mac_hybrid_200_2048_1e-05
+611,hair_color,black,0,0.6442326903343201,black,mac_hybrid_200_2048_1e-05
+612,eye_color,black,1,0.5023050308227539,black,mac_hybrid_200_2048_1e-05
+613,monk_scale,scale 4,4,0.8708009719848633,scale 4,mac_hybrid_200_2048_1e-05
+614,fitz_type,type iii,2,0.7620346546173096,type iii,mac_hybrid_200_2048_1e-05
+615,male,1,1,0.9999984,0,mac_hybrid_200_2048_1e-05
+616,age,adult,0,0.9901172518730164,adult,mac_hybrid_200_2048_1e-05
+617,hair_type,wavy,3,0.495373010635376,wavy,mac_hybrid_200_2048_1e-05
+618,hair_color,black,0,0.9992664456367493,black,mac_hybrid_200_2048_1e-05
+619,eye_color,black,1,0.8343255519866943,black,mac_hybrid_200_2048_1e-05
+620,monk_scale,scale 4,4,0.7970070838928223,scale 4,mac_hybrid_200_2048_1e-05
+621,fitz_type,type iii,2,0.6213678121566772,type iii,mac_hybrid_200_2048_1e-05
+622,male,1,1,1.0,0,mac_hybrid_200_2048_1e-05
+623,age,adult,0,0.9990842342376709,adult,mac_hybrid_200_2048_1e-05
+624,hair_type,wavy,3,0.6538974642753601,wavy,mac_hybrid_200_2048_1e-05
+625,hair_color,black,0,0.9672242403030396,black,mac_hybrid_200_2048_1e-05
+626,eye_color,black,1,0.8110912442207336,black,mac_hybrid_200_2048_1e-05
+627,monk_scale,scale 4,4,0.8390464782714844,scale 4,mac_hybrid_200_2048_1e-05
+628,fitz_type,type iii,2,0.925698459148407,type iii,mac_hybrid_200_2048_1e-05
+629,male,1,1,0.9999991,0,mac_hybrid_200_2048_1e-05
+630,age,adult,0,0.9973077774047852,adult,mac_hybrid_200_2048_1e-05
+631,hair_type,wavy,3,0.40824422240257263,wavy,mac_hybrid_200_2048_1e-05
+632,hair_color,black,0,0.9958523511886597,black,mac_hybrid_200_2048_1e-05
+633,eye_color,black,1,0.716633141040802,black,mac_hybrid_200_2048_1e-05
+634,monk_scale,scale 4,4,0.710295557975769,scale 4,mac_hybrid_200_2048_1e-05
+635,fitz_type,type iii,2,0.6621434092521667,type iii,mac_hybrid_200_2048_1e-05
+636,male,1,1,0.9999999,0,mac_hybrid_200_2048_1e-05
+637,age,adult,0,0.9840662479400635,adult,mac_hybrid_200_2048_1e-05
+638,hair_type,wavy,3,0.5755273699760437,wavy,mac_hybrid_200_2048_1e-05
+639,hair_color,black,0,0.200623020529747,gray,mac_hybrid_200_2048_1e-05
+640,eye_color,black,1,0.5155181288719177,black,mac_hybrid_200_2048_1e-05
+641,monk_scale,scale 4,4,0.4814225733280182,scale 5,mac_hybrid_200_2048_1e-05
+642,fitz_type,type iii,2,0.8976213335990906,type iii,mac_hybrid_200_2048_1e-05
+643,male,1,1,0.99999803,0,mac_hybrid_200_2048_1e-05
+644,age,adult,0,0.9966868758201599,adult,mac_hybrid_200_2048_1e-05
+645,hair_type,wavy,3,0.853378415107727,wavy,mac_hybrid_200_2048_1e-05
+646,hair_color,black,0,0.4694138765335083,gray,mac_hybrid_200_2048_1e-05
+647,eye_color,black,1,0.985832929611206,black,mac_hybrid_200_2048_1e-05
+648,monk_scale,scale 4,4,0.3196963965892792,scale 5,mac_hybrid_200_2048_1e-05
+649,fitz_type,type iii,2,0.9561097621917725,type iii,mac_hybrid_200_2048_1e-05
+650,male,1,1,0.99998516,0,mac_hybrid_200_2048_1e-05
+651,age,adult,0,0.9898148775100708,adult,mac_hybrid_200_2048_1e-05
+652,hair_type,wavy,3,0.8610765933990479,wavy,mac_hybrid_200_2048_1e-05
+653,hair_color,black,0,0.994436502456665,black,mac_hybrid_200_2048_1e-05
+654,eye_color,black,1,0.2825412154197693,brown,mac_hybrid_200_2048_1e-05
+655,monk_scale,scale 4,4,0.6754872798919678,scale 4,mac_hybrid_200_2048_1e-05
+656,fitz_type,type iii,2,0.9715242981910706,type iii,mac_hybrid_200_2048_1e-05
+657,male,1,1,0.9999693,0,mac_hybrid_200_2048_1e-05
+658,age,adult,0,0.997782289981842,adult,mac_hybrid_200_2048_1e-05
+659,hair_type,wavy,3,0.06002047285437584,straight,mac_hybrid_200_2048_1e-05
+660,hair_color,black,0,0.911957859992981,black,mac_hybrid_200_2048_1e-05
+661,eye_color,black,1,0.5926641821861267,black,mac_hybrid_200_2048_1e-05
+662,monk_scale,scale 4,4,0.938983142375946,scale 4,mac_hybrid_200_2048_1e-05
+663,fitz_type,type iii,2,0.7960395812988281,type iii,mac_hybrid_200_2048_1e-05
+664,male,1,1,0.9999943,0,mac_hybrid_200_2048_1e-05
+665,age,adult,0,0.9970129728317261,adult,mac_hybrid_200_2048_1e-05
+666,hair_type,wavy,3,0.5414442420005798,wavy,mac_hybrid_200_2048_1e-05
+667,hair_color,black,0,0.9844974279403687,black,mac_hybrid_200_2048_1e-05
+668,eye_color,black,1,0.9167456030845642,black,mac_hybrid_200_2048_1e-05
+669,monk_scale,scale 4,4,0.9774871468544006,scale 4,mac_hybrid_200_2048_1e-05
+670,fitz_type,type iii,2,0.9544984698295593,type iii,mac_hybrid_200_2048_1e-05
+671,male,1,1,0.9999906,0,mac_hybrid_200_2048_1e-05
+672,age,adult,0,0.9971879124641418,adult,mac_hybrid_200_2048_1e-05
+673,hair_type,wavy,3,0.45323631167411804,wavy,mac_hybrid_200_2048_1e-05
+674,hair_color,black,0,0.9615136981010437,black,mac_hybrid_200_2048_1e-05
+675,eye_color,black,1,0.61626797914505,black,mac_hybrid_200_2048_1e-05
+676,monk_scale,scale 4,4,0.39345747232437134,scale 4,mac_hybrid_200_2048_1e-05
+677,fitz_type,type iii,2,0.10187172889709473,type iv,mac_hybrid_200_2048_1e-05
+678,male,1,1,1.0,0,mac_hybrid_200_2048_1e-05
+679,age,adult,0,0.9576272368431091,adult,mac_hybrid_200_2048_1e-05
+680,hair_type,wavy,3,0.6660951375961304,wavy,mac_hybrid_200_2048_1e-05
+681,hair_color,black,0,0.9179981350898743,black,mac_hybrid_200_2048_1e-05
+682,eye_color,black,1,0.9481659531593323,black,mac_hybrid_200_2048_1e-05
+683,monk_scale,scale 4,4,0.7934648394584656,scale 4,mac_hybrid_200_2048_1e-05
+684,fitz_type,type iii,2,0.9753115773200989,type iii,mac_hybrid_200_2048_1e-05
+685,male,1,1,0.99999887,0,mac_hybrid_200_2048_1e-05
+686,age,adult,0,0.9987022876739502,adult,mac_hybrid_200_2048_1e-05
+687,hair_type,wavy,3,0.7586193084716797,wavy,mac_hybrid_200_2048_1e-05
+688,hair_color,black,0,0.9927882552146912,black,mac_hybrid_200_2048_1e-05
+689,eye_color,black,1,0.7714026570320129,black,mac_hybrid_200_2048_1e-05
+690,monk_scale,scale 4,4,0.26596587896347046,scale 5,mac_hybrid_200_2048_1e-05
+691,fitz_type,type iii,2,0.25521016120910645,type iv,mac_hybrid_200_2048_1e-05
+692,male,1,1,0.9999971,0,mac_hybrid_200_2048_1e-05
+693,age,adult,0,0.7235647439956665,adult,mac_hybrid_200_2048_1e-05
+694,hair_type,wavy,3,0.9852328896522522,wavy,mac_hybrid_200_2048_1e-05
+695,hair_color,black,0,0.988685131072998,black,mac_hybrid_200_2048_1e-05
+696,eye_color,black,1,0.7819865942001343,black,mac_hybrid_200_2048_1e-05
+697,monk_scale,scale 4,4,0.5591170787811279,scale 4,mac_hybrid_200_2048_1e-05
+698,fitz_type,type iii,2,0.7698379158973694,type iii,mac_hybrid_200_2048_1e-05
+699,male,1,1,0.99998623,0,mac_hybrid_200_2048_1e-05
